@@ -1,3 +1,0 @@
-<project name="libJson" default="build">
-   <import file="../common/build.xml" />
-</project>
