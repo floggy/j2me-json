@@ -1,4 +1,4 @@
-package org.json.me;
+package org.floggy.org.json.me;
 
 /**
  * The JSONException is thrown by the JSON.org classes then things are amiss.

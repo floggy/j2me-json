@@ -2,7 +2,7 @@
  * Copyright 2006 Sun Microsystems, Inc.
  */
 
-package org.json.me;
+package org.floggy.org.json.me;
 
 import java.io.IOException;
 import java.io.Writer;

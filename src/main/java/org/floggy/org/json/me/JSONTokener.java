@@ -1,4 +1,4 @@
-package org.json.me;
+package org.floggy.org.json.me;
 
 /*
 Copyright (c) 2002 JSON.org

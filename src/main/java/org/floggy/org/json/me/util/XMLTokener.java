@@ -1,7 +1,7 @@
-package org.json.me.util;
+package org.floggy.org.json.me.util;
 
-import org.json.me.JSONException;
-import org.json.me.JSONTokener;
+import org.floggy.org.json.me.JSONException;
+import org.floggy.org.json.me.JSONTokener;
 
 /*
 Copyright (c) 2002 JSON.org
