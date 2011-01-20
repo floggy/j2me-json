@@ -310,6 +310,16 @@ public class JSONWriter {
     }
 
     /**
+     * Append a int value.
+     * @param i A int.
+     * @return this
+     * @throws JSONException
+     */
+    public JSONWriter value(int i) throws JSONException {
+        return this.append(Integer.toString(i));
+    }
+
+    /**
      * Append a long value.
      * @param l A long.
      * @return this
@@ -318,7 +328,6 @@ public class JSONWriter {
     public JSONWriter value(long l) throws JSONException {
         return this.append(Long.toString(l));
     }
-
 
     /**
      * Append an object value.
