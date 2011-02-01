@@ -31,6 +31,12 @@
 		<developerConnection>scm:git:git@github.com:tmoreira2020/j2me-json.git</developerConnection>
 		<url>http://github.com/tmoreira2020/j2me-json</url>
 	</scm>
+	<distributionManagement>
+		<site>
+			<id>github-project-site</id>
+			<url>gitsite:git@github.com/floggy/j2me-json.git</url>
+		</site>
+	</distributionManagement>
 	<dependencies>
 		<dependency>
 			<groupId>org.microemu</groupId>
@@ -46,6 +52,23 @@
 		</dependency>
 	</dependencies>
 	<build>
+		<extensions>
+			<extension>
+				<groupId>org.apache.maven.scm</groupId>
+				<artifactId>maven-scm-provider-gitexe</artifactId>
+				<version>1.3</version>
+			</extension>
+			<extension>
+				<groupId>org.apache.maven.scm</groupId>
+				<artifactId>maven-scm-manager-plexus</artifactId>
+				<version>1.3</version>
+			</extension>
+			<extension>
+				<groupId>org.kathrynhuxtable.maven.wagon</groupId>
+				<artifactId>wagon-gitsite</artifactId>
+				<version>0.3.1</version>
+			</extension>
+		</extensions>
 		<plugins>
 			<plugin>
 				<groupId>com.pyx4me</groupId>
