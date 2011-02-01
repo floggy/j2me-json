@@ -1,0 +1,28 @@
+-classpath
+'/home/tmoreira2020/projects/floggy/j2me-json/target/classes:/home/tmoreira2020/projects/floggy/j2me-json/target/test-classes:/home/tmoreira2020/.m2/repository/org/microemu/cldcapi11/2.0.4/cldcapi11-2.0.4.jar:/home/tmoreira2020/.m2/repository/junit/junit/3.8.2/junit-3.8.2.jar:/home/tmoreira2020/.m2/repository/org/microemu/midpapi20/2.0.4/midpapi20-2.0.4.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/tmoreira2020/projects/floggy/j2me-json/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2006-2011 <a href="http://www.floggy.org">Floggy Open Source Group</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/tmoreira2020/projects/floggy/j2me-json/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JSON implementation for JME 0.0.1-SNAPSHOT Test API'
+-link
+'../apidocs'
+-link
+'http://java.sun.com/javase/6/docs/api'
+-stylesheetfile
+'/home/tmoreira2020/projects/floggy/j2me-json/target/site/testapidocs/stylesheet.css'
+-use
+-version
+-windowtitle
+'JSON implementation for JME 0.0.1-SNAPSHOT Test API'
