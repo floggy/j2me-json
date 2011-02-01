@@ -27,9 +27,9 @@
 	<artifactId>j2me-json</artifactId>
 	<name>JSON implementation for JME</name>
 	<scm>
-		<connection>scm:git:git@github.com:tmoreira2020/j2me-json.git</connection>
-		<developerConnection>scm:git:git@github.com:tmoreira2020/j2me-json.git</developerConnection>
-		<url>http://github.com/tmoreira2020/j2me-json</url>
+		<connection>scm:git:git@github.com:floggy/j2me-json.git</connection>
+		<developerConnection>scm:git:git@github.com:floggy/j2me-json.git</developerConnection>
+		<url>http://github.com/floggy/j2me-json</url>
 	</scm>
 	<distributionManagement>
 		<site>
