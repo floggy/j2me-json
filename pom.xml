@@ -22,9 +22,10 @@
 	<parent>
 		<groupId>org.floggy</groupId>
 		<artifactId>parent</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>0.0.3</version>
 	</parent>
 	<artifactId>j2me-json</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>JSON implementation for JME</name>
 	<scm>
 		<connection>scm:git:git@github.com:floggy/j2me-json.git</connection>
